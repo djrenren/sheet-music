@@ -1,11 +1,11 @@
 \header {
-  title = "Untitled"
+  title = "Tiny Vessels"
   composer = "Composer"
 }
 
 \score {
   \relative f' {
-    \tempo 4 = 80
+    \tempo 4 = 85
     \numericTimeSignature
     \time 4/4
     \key fis \minor
